@@ -20,9 +20,7 @@ This project is a fully responsive and visually appealing navigation bar. It inc
 ![Desktop Navbar](images/desktop)
 
 ### Mobile View
-![Mobile Navbar](images/mobile1)
-
-![Mobile Navbar](images/mobile2)
+![Mobile Navbar](images/mobile1)     ![Mobile Navbar](images/mobile2)
 
 
 ## Usage
