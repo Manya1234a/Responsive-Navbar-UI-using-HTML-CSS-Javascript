@@ -17,12 +17,12 @@ This project is a fully responsive and visually appealing navigation bar. It inc
 
 ## Screenshots
 ### Desktop View
-![Desktop Navbar](images/desktop.png)
+![Desktop Navbar](images/desktop)
 
 ### Mobile View
-![Mobile Navbar](images/mobile1.png)
+![Mobile Navbar](images/mobile1)
 
-![Mobile View](images/mobile2.png)
+![Mobile Navbar](images/mobile2)
 
 
 ## Usage
